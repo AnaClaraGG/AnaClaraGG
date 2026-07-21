@@ -61,16 +61,6 @@
 
 <br>
 
-## 📈 stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AnaClaraGG&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
 ## 🌊 outside of code
 
 <div align="center">
